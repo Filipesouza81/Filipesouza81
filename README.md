@@ -15,8 +15,7 @@ Melhorar a usabilidade e acessibilidade em minhas aplicações web.
 Experimentar com design responsivo e aprender boas práticas de UI/UX.
 🔗 Minhas redes sociais:
 
-LinkedIn
-Twitter
+
 📂 Projetos recentes:
 
 !Estudos de Python(https://github.com/Filipesouza81/Proz_aws/blob/main/Calculadora.py)
