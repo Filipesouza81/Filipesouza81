@@ -23,8 +23,7 @@ Estudos de Python(https://github.com/Filipesouza81/Proz_aws/blob/main/Calculador
 Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se você tiver algum projeto interessante ou sugestão, fique à vontade para entrar em contato!
 -->
 
-### Hard Skills
-
+### Habilidades
 
 <p align="left">
   <!-- HTML5 -->
@@ -44,7 +43,14 @@ Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se v
 
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+
+  <!-- Vue.js -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js" />
+
+  <!-- Bootstrap -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+
 
 
 
