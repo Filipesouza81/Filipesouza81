@@ -59,4 +59,5 @@ Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se v
 - Liderança
 - Criatividade
 - Gestão de tempo
+- Inteligência Emocional
 
