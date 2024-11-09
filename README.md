@@ -18,7 +18,7 @@ Experimentar com design responsivo e aprender boas práticas de UI/UX.
 
 📂 Projetos recentes:
 
-!Estudos de Python(https://github.com/Filipesouza81/Proz_aws/blob/main/Calculadora.py)
+Estudos de Python(https://github.com/Filipesouza81/Proz_aws/blob/main/Calculadora.py)
 
 Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se você tiver algum projeto interessante ou sugestão, fique à vontade para entrar em contato!
 -->
