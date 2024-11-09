@@ -52,11 +52,11 @@ Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se v
 
 ### Soft Skills
 
-Comunicação
-Inteligência Emocional
-Adaptabilidade
-Trabalho em Equipe
-Gerenciamento de Projetos
-Metodologias Ágeis (Scrum)
-Criação de Documentação
+- Comunicação
+- Trabalho em equipe
+- Adaptabilidade
+- Resolução de problemas
+- Liderança
+- Criatividade
+- Gestão de tempo
 
