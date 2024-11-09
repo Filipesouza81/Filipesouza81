@@ -57,7 +57,6 @@ Inteligência Emocional
 Adaptabilidade
 Trabalho em Equipe
 Gerenciamento de Projetos
-DevOps (Azure, AWS e Google Cloud)
 Metodologias Ágeis (Scrum)
 Criação de Documentação
 
