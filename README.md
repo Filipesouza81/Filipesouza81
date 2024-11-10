@@ -13,7 +13,7 @@ Frameworks e Bibliotecas: React, Vue.js, Bootstrap
 Aperfeiçoar meus conhecimentos em React para construir interfaces dinâmicas.
 Melhorar a usabilidade e acessibilidade em minhas aplicações web.
 Experimentar com design responsivo e aprender boas práticas de UI/UX.
-🔗 Minhas redes sociais:
+
 
 
 📂 Projetos recentes:
