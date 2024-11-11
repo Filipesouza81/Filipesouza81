@@ -23,7 +23,7 @@ Estudos de Python(https://github.com/Filipesouza81/Proz_aws/blob/main/Calculador
 Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se você tiver algum projeto interessante ou sugestão, fique à vontade para entrar em contato!
 -->
 
-### Habilidades
+### Hard Skills
 
 <p align="left">
   <!-- HTML5 -->
