@@ -61,13 +61,15 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
 
 -->
 
+
+
 ## Hard Skills
 
 <p align="left">
 
   <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
+
   <!-- IA / Machine Learning -->
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
