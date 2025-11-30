@@ -61,9 +61,26 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
 
 -->
 
-### Hard Skills
+## Hard Skills
 
 <p align="left">
+
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <!-- IA / Machine Learning -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+
+  <!-- Agentes de IA -->
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+
+  <!-- Modelos (NLP / LLMs) -->
+  <img src="https://img.shields.io/badge/LLMs-121212?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="LLMs" />
+
+  <!-- Quality Assurance -->
+  <img src="https://img.shields.io/badge/Quality%20Assurance-0A66C2?style=for-the-badge&logo=testcafe&logoColor=white" alt="Quality Assurance" />
+
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 
@@ -73,12 +90,6 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-  <!-- SQL Server -->
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
@@ -87,6 +98,10 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
 
   <!-- Bootstrap -->
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+
 </p>
 
 
