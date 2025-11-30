@@ -1,28 +1,64 @@
+
 ## Oi, eu sou o Filipe!
 
-Sou iniciante na área de desenvolvimento frontend, apaixonado por criar interfaces interativas e visualmente atraentes. Estou aprendendo e aprimorando minhas habilidades com HTML, CSS, JavaScript e outras tecnologias relacionadas ao frontend.
+Hoje atuo na área de **Engenharia de IA**, desenvolvendo **agentes inteligentes**, **modelos**, integrações e soluções práticas que tornam o uso da inteligência artificial mais eficiente e acessível. Também tenho experiência em **Quality Assurance (QA)**, garantindo que cada sistema seja confiável, testável e entregue com qualidade.
 
-🚀 O que estou aprendendo:
+Continuo apaixonado por tecnologia e por criar experiências que realmente funcionem, conectem pessoas e resolvam problemas do mundo real.
 
-HTML5: Estruturação de páginas web
-CSS3: Estilização e responsividade
-JavaScript: Interatividade e manipulação do DOM
-Frameworks e Bibliotecas: React, Vue.js, Bootstrap
-🌱 Atualmente, estou focado em:
+---
 
-Aperfeiçoar meus conhecimentos em React para construir interfaces dinâmicas.
-Melhorar a usabilidade e acessibilidade em minhas aplicações web.
-Experimentar com design responsivo e aprender boas práticas de UI/UX.
+### 🚀 O que trabalho e estudo atualmente
 
+- **Desenvolvimento de Agentes de IA**  
+  Construção, orquestração e otimização de agentes inteligentes para diferentes contextos.
 
+- **Engenharia de Modelos**  
+  Fine-tuning, alinhamento, avaliação e práticas avançadas no ecossistema de IA.
 
-📂 Projetos recentes:
+- **Quality Assurance (QA)**  
+  Estratégias de testes, verificação de comportamento, automação e garantia de qualidade em sistemas de IA e software.
 
-Estudos de Python (https://github.com/Filipesouza81/Proz_aws/blob/main/Calculadora.py)
+- **Desenvolvimento e Automação em Python**  
+  Ferramentas, pipelines, scripts e soluções orientadas a dados.
 
-Jogo em Python (https://github.com/Filipesouza81/Jogo-Fiona)
+- **Boas práticas de arquitetura e engenharia**  
+  Estruturas mais limpas, escaláveis e organizadas.
 
-Estou sempre aberto a aprender mais e colaborar com outros desenvolvedores. Se você tiver algum projeto interessante ou sugestão, fique à vontade para entrar em contato!
+  - **Engenharia de Prompt**
+  Técnicas e boas práticas aplicadas a Prompts.
+
+---
+
+### 🌱 Atualmente, estou focado em:
+
+- Aprofundar técnicas de **treinamento e avaliação de modelos**.  
+- Criar **agentes mais autônomos**, robustos e orientados a tarefas reais.  
+- Explorar **Boas Práticas em QA aplicado à IA**, testes de segurança e confiabilidade.  
+- Integrar IA a aplicações práticas que ajudem outras pessoas a aprender, criar e automatizar.
+
+---
+
+### 📂 Projetos recentes
+
+- **Estudos e automações em Python**  
+  <https://github.com/Filipesouza81/Proz_aws/blob/main/Calculadora.py>
+
+- **Jogo educacional em Python**  
+  <https://github.com/Filipesouza81/Jogo-Fiona>
+
+- **Projetos envolvendo IA, agentes e aplicações práticas**  
+  *(em breve no GitHub!)*
+
+---
+
+Estou sempre aberto a aprender mais, colaborar e construir soluções inteligentes.  
+Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vontade para entrar em contato! 🚀
+```
+
+---
+
+Se quiser, posso **ajustar o tom**, deixar mais **formal**, mais **técnico**, mais **simpático**, ou até criar uma versão **em inglês** para o GitHub. Quer alguma modificação?
+
 -->
 
 ### Hard Skills
