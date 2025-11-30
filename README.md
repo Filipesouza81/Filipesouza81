@@ -49,23 +49,45 @@ Continuo apaixonado por tecnologia e por criar experiências que realmente funci
 - **Projetos envolvendo IA, agentes e aplicações práticas**  
   *(em breve no GitHub!)*
 
----
+
 
 Estou sempre aberto a aprender mais, colaborar e construir soluções inteligentes.  
 Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vontade para entrar em contato! 🚀
-```
+
 
 
 ## Hard Skills
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<!-- Azure -->
+<img src="https://img.shields.io/badge/AZURE-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+
+<!-- AWS -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+
+<!-- Google Cloud -->
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+
+<!-- Docker -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+
+<!-- Jenkins -->
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+
+<!-- Maven -->
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+
+<!-- Terraform -->
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
 
 
 
 
 
 
-### Soft Skills
+## Soft Skills
 
 - Comunicação
 - Trabalho em equipe
