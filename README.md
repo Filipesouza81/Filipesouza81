@@ -57,7 +57,7 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
 
 ---
 
-Se quiser, posso **ajustar o tom**, deixar mais **formal**, mais **técnico**, mais **simpático**, ou até criar uma versão **em inglês** para o GitHub. Quer alguma modificação?
+
 
 -->
 
