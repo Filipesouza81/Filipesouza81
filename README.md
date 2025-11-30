@@ -60,12 +60,19 @@ Se quiser trocar ideias, compartilhar projetos ou criar algo juntos, fique à vo
 
 ## DevOps
 <p> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" /> </p>
+
 ## Linguagens de Programação
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> </p>
+
 ## Bancos de Dados
 <p> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> </p>
+
 ## Análise de Dados
-<p> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> </p>
+<p> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" /> </p><p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+</p>
+
+
 ## Inteligência Artificial / Automação
 <p> <img src="https://img.shields.io/badge/Copilot_Studio-7425F7?style=flat&logo=microsoftcopilot&logoColor=white" /> <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat&logo=powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" /> </p>
 
